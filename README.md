@@ -61,9 +61,5 @@ const aboutMe = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satanmourner&show_icons=true&locale=en&hide_border=true&theme=merko&layout=compact" alt="satanmourner" />
 
 
-### 🎧 What Am I Listening to:
-
-[![spotify](https://spotify-github-profile.vercel.app/api/view?uid=mahmoudisanaz59&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 [![Contact Me](https://img.shields.io/badge/Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=mahmoudisanaz.dev@gmail.com)
 
