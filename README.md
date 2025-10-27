@@ -22,7 +22,7 @@ const aboutMe = {
 
 <!-- ##### My Resume: -->
 
-<a href="https://docs.google.com/document/d/18J_0iFxOG8cIh7b6525bPksat6SbuNzEgH0ujxSQIxQ/edit?usp=sharing" target="_blank"><img alt="resume" src="https://img.shields.io/badge/my resume-black.svg?&style=for-the-badge&logo=google-scholar&logoColor=yellow" /></a>
+<a href="https://drive.google.com/file/d/12LoV6HthRUN93-WdK53k5ocZR6_dNyZu/view?usp=sharing" target="_blank"><img alt="resume" src="https://img.shields.io/badge/my resume-black.svg?&style=for-the-badge&logo=google-scholar&logoColor=yellow" /></a>
 
 
 ### 🧐 Where to find Me:
