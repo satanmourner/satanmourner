@@ -52,7 +52,8 @@ const aboutMe = {
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+[![Web3](https://img.shields.io/badge/-Web3-05122A?style=flat&logo=web3)](https://web3.foundation/)&nbsp;
 
 
 <!-- ### My Stats: -->
@@ -63,4 +64,6 @@ const aboutMe = {
 ### 🎧 What Am I Listening to:
 
 [![spotify](https://spotify-github-profile.vercel.app/api/view?uid=mahmoudisanaz59&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahmoudisanaz.dev@gmail.com)
 
