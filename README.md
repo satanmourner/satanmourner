@@ -1,4 +1,4 @@
-<img align="center" alt="hello" height="400" src="./assets/hello.gif">
+<img align="center" alt="hello" height="400" src="./assets/satanmourner.png">
 
 ## 👺 I'm SatanMourner
 
