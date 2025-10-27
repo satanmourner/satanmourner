@@ -65,5 +65,5 @@ const aboutMe = {
 
 [![spotify](https://spotify-github-profile.vercel.app/api/view?uid=mahmoudisanaz59&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mahmoudisanaz.dev@gmail.com)
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=mahmoudisanaz.dev@gmail.com)
 
